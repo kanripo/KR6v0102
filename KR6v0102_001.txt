@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:46.802280
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:14
 #+TITLE: 寶髻本緣
 #+PROPERTY: CBETA_ID W09n0075
 #+PROPERTY: ID KR6v0102
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 克什曼德拉　原著任遠　譯¶
 ¶
@@ -44,7 +44,7 @@ Hahn曾經批評過這個譯本，指出它不完整，不正確，因而¶
 ¶
 ¶
 
-正文¶
+* 正文¶
 ¶
 
  寶髻本緣¶
